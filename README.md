@@ -12,23 +12,28 @@ Encryption is basically a conversion of plain text into cipher text. Decryption 
 
 Types of Cryptography
 There are three widely used types of cryptography:
+![](https://github.com/noorkhokhar99/Cryptography-Using-Python-Modules/blob/main/Screen%20Shot%201444-03-21%20at%2011.22.21%20AM%201.png)
 
 
 
 
 
-Python Modules for Cryptography
+# Python Modules for Cryptography
+
 Modules are files that contain Python statements and definitions for functions, classes, and variables that can be used in your program. It essentially makes the code understandable and logically organized.
 
 
 
 
-n this article, we will shed light on some modules that can be used for the encryption and decryption of data.
+in this video, we will shed light on some modules that can be used for the encryption and decryption of data.
 
 1. Fernet Module
 The Fernet module comes under the cryptography package. Here, a unique key is generated without which the data cannot be read/modified. Hence it implements Symmetric Key Cryptography.
 
 It uses three major methods to generate keys, encrypt and decrypt the data.
+
+![](https://github.com/noorkhokhar99/Cryptography-Using-Python-Modules/blob/main/Screen%20Shot%201444-03-21%20at%2011.22.59%20AM.png)
+
 
 
 
